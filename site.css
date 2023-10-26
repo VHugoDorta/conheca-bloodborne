@@ -1,0 +1,125 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.titulo {
+    font-family: Metal Mania;
+    font-size: 80px;
+}
+
+.link{
+    font-family: Nanum Myeongjo;
+    color: red;
+    text-decoration: none;
+}
+header ul li{
+    display: inline;
+}
+h2 {
+    font-family: Play Fair;
+    color:white;
+}
+
+header {
+    padding: 16px 0;
+    background: radial-gradient(circle at 24.1% 68.8%, rgb(50, 50, 50) 0%, rgb(0, 0, 0) 99.4%);
+    color: rgb(243, 243, 243);
+    }
+    
+.header1 {
+    max-width: 1280px;
+    width: 100%;
+    margin: 0 20px;
+    align-content: center;
+}
+
+header .header1 {
+    display: flex;
+    justify-content: space-between;
+
+}
+.imagemjogo {
+    max-width: 1280px;
+    width: 100%;
+    margin: 0 70px;
+    margin-top: 30px;
+    
+}
+
+img {
+    height: 400px;
+    width:60%;
+}
+.conteudo {
+    max-width: 1280x;
+    width: 98%;
+    margin: 0 20px;
+}
+
+.fundo {
+    background: linear-gradient(109.6deg, rgb(20, 30, 48) 11.2%, rgb(36, 59, 85) 91.1%);
+}
+
+.trick {
+    margin: 0 50px;
+    color: white;
+}
+
+p {
+    color:white;
+    font-size: large;
+}
+
+.contato {
+    margin-bottom: 150px;
+    margin: 0 50px;
+}
+.botoes {
+    display: block;
+}
+
+form input,
+form text area,
+form button {
+    display: block;
+    width: 320px;
+    margin-bottom: 8px;
+    padding: 8px;
+}
+
+form textarea {
+    resize: none;
+}
+
+.enviar {
+    width: 80px;
+}
+
+.linkgithub img {
+    height: 24px;
+    width: 24px;
+    max-width: 1280px;
+    margin: 0 20px;
+}
+
+.separarcontatos {
+    display: flex;
+    max-width: 1280px;
+    margin: 0 20px;
+}
+
+.mesiga {
+    margin-top: 150px;
+    
+}
+
+.mesiga ul li {
+    display: inline;
+}
+
+.direitoautoral{
+    font-size: small;
+    margin-top: 20px;
+}
